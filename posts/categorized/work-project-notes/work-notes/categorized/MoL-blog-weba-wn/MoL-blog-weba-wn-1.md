@@ -12,6 +12,6 @@ niceId: 'post-01'
 
 
 Aleph Beis:
-![WordPress photo](/Aleph-Beis.png )
+![WordPress photo](/Aleph-Beis-2.png)
 
 
