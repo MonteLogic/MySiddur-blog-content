@@ -9,10 +9,9 @@ categories:
 niceId: 'post-01'
 ---
 
-# MoL-blog-weba-wn-1
-
-## Start: Thu Mar 20 2025 21:00:03 CDT
 
 
 Aleph Beis:
-![WordPress photo](media/Aleph-Beis.png)
+![WordPress photo](/Aleph-Beis.png )
+
+
